@@ -7,4 +7,4 @@ A passionate **software developer & IT enthusiast** who loves building creative 
 📌 I enjoy working on **Software & Web Application Development**  
 🎯 Passionate about **problem-solving & algorithms**  
 ## 📫 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakrosh-rai-7332b7314/)  
+[<img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40px"/>](https://www.linkedin.com/in/aakrosh-rai-7332b7314/)  

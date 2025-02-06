@@ -8,4 +8,4 @@
 🎯 Passionate about **problem-solving & algorithms**  
 ## 📫 Connect With Me  
 [<img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40px"/>](https://www.linkedin.com/in/aakrosh-rai-7332b7314/)  
-## Languages and Tools
+

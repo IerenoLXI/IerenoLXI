@@ -4,11 +4,14 @@
 <img src="https://komarev.com/ghpvc/?username=IerenoLXI&label=Profile%20views&color=blueviolet&style=flat" />
 
 ---
-
 ## 🔥 About Me  
-💡 I’m currently learning **React, JavaScript, APIs, Python, and UI/UX Design**  
-📌 I enjoy working on **Software & Web Application Development**  
-🎯 Passionate about **problem-solving & algorithms**  
+
+- 💡 I’m currently learning **React, JavaScript, APIs, Python, and UI/UX Design**  
+- 💻 I enjoy working on **Full-Stack Web & Mobile Development**  
+- 🎯 Passionate about **problem-solving, data structures, and algorithms**  
+- 🌱 Exploring **Cloud Computing & DevOps**  
+- 🚀 Open to **collaborations on open-source projects & startups**
+- 🖥 Fun Fact: The first computer mouse (1960s) was made out of wood! 🪵🖱
 ## 📫 Connect With Me:  
 <a href="https://www.linkedin.com/in/aakrosh-rai-7332b7314/" style="vertical-align: middle;">
     <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="40px"/>

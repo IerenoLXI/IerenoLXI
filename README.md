@@ -7,7 +7,7 @@
 ## 🔥 About Me  
 
 - 💡 I’m currently learning **React, JavaScript, APIs, Python, and UI/UX Design**  
-- 💻 I enjoy working on **Full-Stack Web & Mobile Development**  
+- 💻 I enjoy working on **Full-Stack Developer and Database Developer**  
 - 🎯 Passionate about **problem-solving, data structures, and algorithms**  
 - 🌱 Exploring **Cloud Computing & DevOps**  
 - 🚀 Open to **collaborations on open-source projects & startups**

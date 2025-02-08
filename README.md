@@ -9,7 +9,6 @@
 - 💡 I’m currently learning **React, JavaScript, APIs, Python, and UI/UX Design**  
 - 💻 I enjoy working as a **Full-Stack and Database Developer**
 - 🎯 Passionate about **problem-solving, data structures, and algorithms**  
-- 🌱 Exploring **Cloud Computing & DevOps**  
 - 🚀 Open to **collaborations on open-source projects & startups**
 - 🖥 Fun Fact: The first computer mouse (1960s) was made out of wood! 🪵🖱
 ## 📫 Connect With Me:  
